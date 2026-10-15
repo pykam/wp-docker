@@ -2,6 +2,8 @@
 
 A local development environment for WordPress: Apache+PHP (with Xdebug and WP-CLI), MySQL 8, and phpMyAdmin.
 
+Built-in WP-CLI makes this a good fit for fullstack development with AI coding agents that need CLI access to WordPress (managing plugins/themes, content, DB operations, etc.) alongside direct file edits.
+
 Русская версия: [README-ru.md](README-ru.md)
 
 ## Stack
