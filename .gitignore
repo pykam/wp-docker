@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# WordPress core/runtime files (mounted into src/)
+src/*
+!src/.gitkeep
+
+# MySQL data
+db_data/*
+!db_data/.gitkeep
+
+# OS / editor
+.DS_Store
